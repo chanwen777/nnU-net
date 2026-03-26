@@ -250,8 +250,8 @@ The inference input folder must contain `*_0000.<ext>` files (e.g. `case_0000.nr
 
 If you use this code or nnU-Net in your research, please cite:
 
-> Hanwen Cheng et al.Fracture-Adaptive Deep Learning for Opportunistic Volumetric Bone Mineral Density Assessment and Vertebral Fracture Prediction. submmitted.
-> Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. *Nature methods*, 18(2), 203-211.
+1. Hanwen Cheng et al.Fracture-Adaptive Deep Learning for Opportunistic Volumetric Bone Mineral Density Assessment and Vertebral Fracture Prediction. submmitted.
+2. Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. *Nature methods*, 18(2), 203-211.
 
 ---
 
